@@ -196,7 +196,7 @@ Link página
 Es gratuita y no necesitas registrarte.
 
 ### ¿Cómo se usa?
-- Debes abrir el navegador y escribir el sitio www.lavitrina.cl.
+- Debes abrir el navegador y escribir el sitio [www.lavitrina.cl]().
 
 - Para buscar un estreno de 2018 o 2019 puedes ir a la barra de menú y hacer click en **Estrenos**, luego seleccionar el **Año** que te interesa, hacer click en la carátula de la película y podrás ver información, trailer y las páginas donde se encuentra disponible ver online.
 
