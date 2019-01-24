@@ -27,8 +27,8 @@ _"Como usuario quiero ver los estrenos de películas entre 2018 y 2019 para sabe
 
 | Definition of Done
 |--------------------------|
-|`Mostrar estrenos entre 2018 y 2019.` 
-`Permitir seleccionar año de estreno (entre 2018 y 2019).` |
+|Mostrar estrenos entre 2018 y 2019.|
+|Permitir seleccionar año de estreno (entre 2018 y 2019).|
 
 _"Como usuario quiero saber las películas que se estrenarán en 2019 para estar actualizado."_
 
